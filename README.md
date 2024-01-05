@@ -38,10 +38,7 @@ Feel free to fork this project, submit pull requests, or send suggestions to imp
 ## License
 [Your chosen license or "This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details"]
 
-## Contact
-- Your Name
-- Your Email
-- [Optional: Other Contact Information or Social Media Links]
+
 
 ---
 
